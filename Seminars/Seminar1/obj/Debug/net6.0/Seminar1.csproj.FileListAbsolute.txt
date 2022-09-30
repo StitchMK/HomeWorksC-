@@ -1,0 +1,15 @@
+/Users/mschneider/Documents/GeekBrains/C#/Семинары/Seminar1/Seminars/Seminar1/bin/Debug/net6.0/Seminar1
+/Users/mschneider/Documents/GeekBrains/C#/Семинары/Seminar1/Seminars/Seminar1/bin/Debug/net6.0/Seminar1.deps.json
+/Users/mschneider/Documents/GeekBrains/C#/Семинары/Seminar1/Seminars/Seminar1/bin/Debug/net6.0/Seminar1.runtimeconfig.json
+/Users/mschneider/Documents/GeekBrains/C#/Семинары/Seminar1/Seminars/Seminar1/bin/Debug/net6.0/Seminar1.dll
+/Users/mschneider/Documents/GeekBrains/C#/Семинары/Seminar1/Seminars/Seminar1/bin/Debug/net6.0/Seminar1.pdb
+/Users/mschneider/Documents/GeekBrains/C#/Семинары/Seminar1/Seminars/Seminar1/obj/Debug/net6.0/Seminar1.csproj.AssemblyReference.cache
+/Users/mschneider/Documents/GeekBrains/C#/Семинары/Seminar1/Seminars/Seminar1/obj/Debug/net6.0/Seminar1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mschneider/Documents/GeekBrains/C#/Семинары/Seminar1/Seminars/Seminar1/obj/Debug/net6.0/Seminar1.AssemblyInfoInputs.cache
+/Users/mschneider/Documents/GeekBrains/C#/Семинары/Seminar1/Seminars/Seminar1/obj/Debug/net6.0/Seminar1.AssemblyInfo.cs
+/Users/mschneider/Documents/GeekBrains/C#/Семинары/Seminar1/Seminars/Seminar1/obj/Debug/net6.0/Seminar1.csproj.CoreCompileInputs.cache
+/Users/mschneider/Documents/GeekBrains/C#/Семинары/Seminar1/Seminars/Seminar1/obj/Debug/net6.0/Seminar1.dll
+/Users/mschneider/Documents/GeekBrains/C#/Семинары/Seminar1/Seminars/Seminar1/obj/Debug/net6.0/refint/Seminar1.dll
+/Users/mschneider/Documents/GeekBrains/C#/Семинары/Seminar1/Seminars/Seminar1/obj/Debug/net6.0/Seminar1.pdb
+/Users/mschneider/Documents/GeekBrains/C#/Семинары/Seminar1/Seminars/Seminar1/obj/Debug/net6.0/Seminar1.genruntimeconfig.cache
+/Users/mschneider/Documents/GeekBrains/C#/Семинары/Seminar1/Seminars/Seminar1/obj/Debug/net6.0/ref/Seminar1.dll
