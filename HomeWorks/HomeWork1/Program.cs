@@ -21,6 +21,8 @@ else
 
 // Задача 4: Напишите программу, которая принимает на вход три числа и выдаёт максимальное из этих чисел.
 
+/*
+
 Console.Write("Input a first number: ");
 int n1 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Input a second number: ");
@@ -41,4 +43,19 @@ else
     Console.WriteLine($"The third number ({n3}) is the maximum");
 }
 
-q
+*/
+
+// Задача 6: Напишите программу, которая на вход принимает число и выдаёт, 
+// является ли число чётным (делится ли оно на два без остатка).
+
+Console.Write("Input a number ");
+int n = Convert.ToInt32(Console.ReadLine());
+
+if (n % 2 == 0)
+{
+    Console.Write($"The number ({n}) is an even number");
+}
+else
+{
+    Console.Write($"The number ({n}) is an odd number");
+}
