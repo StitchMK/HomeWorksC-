@@ -43,6 +43,31 @@ else
 
 */
 
+//Задача 13: Напишите программу, которая выводит третью цифру заданного числа 
+// или сообщает, что третьей цифры нет.
+
+int ThirdDigit (int num)
+{
+    while (num > 999)
+    {
+        num = num / 10;
+    }
+    return num % 10;
+}
+
+Console.Write("Input a number: ");
+int num = Convert.ToInt32(Console.ReadLine());
+
+if(num < 100)
+{
+    Console.WriteLine($"The number {num} has not the third digit");
+}
+else
+{
+    int thirdDigit = ThirdDigit(num);
+    Console.WriteLine($"he third digit of {num} is {thirdDigit}");
+}
+
 // Задача 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, 
 // и проверяет, является ли этот день выходным.
 
